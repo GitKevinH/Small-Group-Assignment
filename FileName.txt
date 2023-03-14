@@ -10,3 +10,6 @@ Git rebase
 
 Git pull
   git pull 'pulls' the most recent version of the repo from the remote server. 
+
+
+  
